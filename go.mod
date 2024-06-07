@@ -1,4 +1,4 @@
-module gitee.com/maoyuting0503109/k8s
+module github.com/1zhangfei/kubernetes
 
 go 1.22.1
 
