@@ -2,7 +2,7 @@ package model
 
 import (
 	"context"
-	"gitee.com/maoyuting0503109/k8s/pkg"
+	"github.com/1zhangfei/kubernetes/pkg"
 	appsv1 "k8s.io/api/apps/v1"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

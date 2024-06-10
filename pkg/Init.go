@@ -1,7 +1,7 @@
 package pkg
 
 import (
-	"gitee.com/maoyuting0503109/k8s/consts"
+	"github.com/1zhangfei/kubernetes/consts"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/clientcmd" //用于处理 Kubernetes 客户端配置
 )
